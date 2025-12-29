@@ -83,7 +83,7 @@ Each pattern folder includes:
 
 Clone the repo:
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/dineshchahar/Design-Patterns.git>
 cd design-patterns
 ````
 

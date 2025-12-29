@@ -92,9 +92,6 @@ Run an example (Python):
 ```bash
 python behavioral/strategy/examples/main.py
 ```
-
-> If your repo is in Java/C++/JS, replace this section with your setup commands.
-
 ---
 
 ## ✅ How to Use This Repo (Best Way)
